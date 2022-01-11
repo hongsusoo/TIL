@@ -12,8 +12,15 @@
 - [ ] 논문 읽기 - Transformer
 - [ ] 최종프로젝트 정리
 
-### 1/9
+### 1/11
 
-- [ ] Alorithm 문제 풀기
+- [x] Alorithm 문제 풀기
+- [ ] Dacon 돌리기
+- [ ] LSTM 공부
+- [ ] 최종프로젝트 추가 내용 Listup
+
+### 1/10
+
+- [x] Alorithm 문제 풀기
 - [ ] Dacon 돌리기
 - [ ] LSTM 공부
