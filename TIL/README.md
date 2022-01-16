@@ -7,23 +7,32 @@
 
 ## January
 
-- [ ] (Daily) Algorithm 문제 풀기
-- [ ] DACON
-- [ ] 논문 읽기 - Transformer
-- [ ] 최종프로젝트 정리
+
+### Week 3 (1/17~1/23)
+
+- [ ] 코테 7문제 풀기
+- [ ] 지원서 제출 (네이버 제트, 보이저엑스)
+- [ ] 면접스터디 준비(누비랩 면접 준비)
+- [ ] 카카오 과제 코드 작성 시작
+- [ ] Dacon - 틀리는 데이터 visualization, 모델 Test
+
+- 1/17 (Mon)
+
+
+### week 2 (1/10~1/16)
 
 ### 1/15
 
-- [ ] Alorithm 문제 풀기
+- [x] Alorithm 문제 풀기
 - [ ] (Dacon) RNN -> min, max 값으로 대체하여 Test
 - [ ] 면접스터디 준비
-- [ ] 카카오 과제 아이디어 정리
+- [x] 카카오 과제 아이디어 정리
 
 ### 1/14
 
-- [X] Alorithm 문제 풀기( + 마키나락스 코테)
-- [X] (Dacon) Transformer or 다른 모델 제출
-- [X] 면접스터디 진행 방향 정하기
+- [x] Alorithm 문제 풀기( + 마키나락스 코테)
+- [x] (Dacon) Transformer or 다른 모델 제출
+- [x] 면접스터디 진행 방향 정하기
 - [ ] 카카오 과제 아이디어 정리
 
 ### 1/13
