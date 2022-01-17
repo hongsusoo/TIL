@@ -16,7 +16,32 @@
 - [ ] Dacon - 틀리는 데이터 visualization, 모델 Test
 
 - 1/17 (Mon)
+    - 면접스터디 준비 내용
+        고유값(eigen value)와 고유벡터(eigen vector)에 대해 설명해주세요. 그리고 왜 중요할까요?
+        샘플링(Sampling)과 리샘플링(Resampling)에 대해 설명해주세요. 리샘플링은 무슨 장점이 있을까요?
+        확률 모형과 확률 변수는 무엇일까요.
+        누적 분포 함수와 확률 밀도 함수는 무엇일까요? 수식과 함께 표현해주세요.
+        조건부 확률은 무엇일까요?
+        공분산과 상관계수는 무엇일까요? 수식과 함께 표현해주세요.
+        신뢰 구간의 정의는 무엇인가요?
+        p-value를 모르는 사람에게 설명한다면 어떻게 설명하실 건가요?
+        R square의 의미는 무엇인가요?
+        평균(mean)과 중앙값(median)중에 어떤 케이스에서 뭐를 써야할까요?
+        중심극한정리는 왜 유용한걸까요?
+        엔트로피(entropy)에 대해 설명해주세요. 가능하면 Information Gain도요.
+    - 보이저 엑스 준비
+        - 압축방식 : BMP(비손실), JPEG(손실), GIF(), PNG(비손실) 
+            - BMP(BitMap) : 그림을 저장하는 포멧, 사진 원본, 가끔 RLE(Run-length encoding : 연속해서 나타나는 데이터를 갯수와 반복되는 값만으로 표현한 방식) 압축방식을 사용하기도함
+            - JPEG(Joint Photographic Experts Group) : JPG로도 불리며 이전엔 포멧의 이름이 3자리로 사용되었기 때문에 JPG로 이름이 붙여졌지만, JPEG와 동일한 포멧임, ① 사람의 눈이 색차보단 휘도차에 민감하기 때문에 휘도와 색으로 구분지어서 나눔, ②4:2:0으로 subsampling 진행, ③ Sub sampling 이후 각 채널은 8x8블락으로 변환하여 DCT 진행, ④ 고주파영역을 제거(양자화)
+                RGB -> YCrCb -> Downsampling(subsampling) -> DCT(이산 코사인변환) -> 양자화 -> zigzag 스캐닝 -> encoding
+            - GIF(Graphics Interchange Format) : LZW 알고리즘을 사용하여 압축하는 방식, 가볍게 인터넷 공유용으로 많이 사용됨
+            - PNG(Portable Network Graphics) : DEFLATE라는 무손실 압축 알고리즘을 통해 고품질을 유지 데이터가 커짐, GIF 특허문제로 고안됨
 
+    - 네이버 제트 3D Graphics 엔지니어링 업무
+        - Pose IK(inverse kinematric) : body part의 경우 parent와 child를 나눠서 진행하게 되는데, child를 움직였을때 parents가 움직이도록 구현하는 방법을 IK라고 하고 반대로 FK(forward kinematric)은 Parents가 움직였을때 Child가 따라 움직이는 방법
+        - Pose solve(minimal solver) : Perspective n Point problem을 해결하기 위한 방법, 카메라 관점에 따라 좌표가 변환되는 것을 품
+        - Unity(C#) : 가볍게 3D 모델링 구현이 가능함 하지만 빡세게 하면 잘 만들 수 있음, 그리고 C#을 이용해 언어적으로도 쉬워서 접근성이 좋고 자료도 많아서 쉽게 배울수 있음
+        - Unreal(C++) : 무거움 빡세게 하면 엄청 실제같은 3D 구현이 가능함
 
 ### week 2 (1/10~1/16)
 
