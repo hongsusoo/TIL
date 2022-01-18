@@ -15,6 +15,19 @@
 - [ ] 카카오 과제 코드 작성 시작
 - [ ] Dacon - 틀리는 데이터 visualization, 모델 Test
 
+- 1/18 (Tue)
+    - 요가소년으로 하루 시작, 아침 닭가슴살, 점심 딸기 요거트,  저녁 피자, 야식 소금빵
+    - 네이버 제트 미팅 3시
+    - 알고리즘 스터디 시작! 1/20부터
+    - Dacon 
+        - .py 파일 작성
+        - resnet151 flip, rotate augmentation 추가 test
+    - 면접스터디
+        - 모수와 비모수
+    - 기술
+        - DLSS : deep learning super sampling
+            NVIDIA에서 GPU에 연산장치를 추가하여 게임에서 raytracing을 학습하여 반복적인 작업의 연산을 최소화하는 방법으로 FPS를 높이고 화질을 개선
+
 - 1/17 (Mon)
     - 면접스터디 준비 내용
         고유값(eigen value)와 고유벡터(eigen vector)에 대해 설명해주세요. 그리고 왜 중요할까요?
